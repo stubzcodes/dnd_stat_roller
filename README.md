@@ -1,0 +1,1 @@
+Simple python program which rolls 4d6 and removes the lowest roll for each of the 6 DND stats.
